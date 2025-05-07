@@ -1,0 +1,20 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro nota1
+		leia(nota1)
+		inteiro nota2
+		leia(nota2)
+		inteiro nota3
+		leia(nota3)
+		inteiro nota4
+		leia(nota4)
+
+
+		inteiro media = (nota1 + nota2 + nota3 + nota4)
+		escreva (media /4)
+		
+	}
+}
