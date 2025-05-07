@@ -1,0 +1,17 @@
+programa
+{
+	inclua biblioteca Matematica
+	
+	funcao inicio()
+	{
+		inteiro HarryPPF = 26.90
+		inteiro HarryPCD = 34.10
+		inteiro HarryPPA = 29.90   
+		inteiro HarryPCF = 26.90
+		inteiro HarryPOF = 50.00
+		inteiro HarryPPM = 26.90
+
+escreva(HarryPPF + HarryPCD + HarryPPA + HarryPCF + HarryPOF + HarryPPM)
+		  
+		  }
+}
