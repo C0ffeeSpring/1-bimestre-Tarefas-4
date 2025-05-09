@@ -1,0 +1,25 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro largura
+		inteiro comprimento
+		
+
+		escreva("fale largura ")
+		leia (largura)
+
+		escreva("agora comprimento ")
+		leia (comprimento)
+		
+            inteiro area = (comprimento * largura)
+            inteiro centimetros = (area * 100)
+            
+		escreva ("a area é ", area )
+		escreva ("\n"," o dobro da area é ", area * 2)
+		escreva ("\n"," e o dobro da are em centimetros é", centimetros)
+
+		
+	}
+}
