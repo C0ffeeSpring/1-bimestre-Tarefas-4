@@ -1,0 +1,16 @@
+programa
+{
+	
+	funcao inicio()
+	{
+	     inteiro metros
+	     
+	    
+		
+escreva ("quantos metros","\n")
+		leia (metros)
+          inteiro centi = (metros * 100)
+	      escreva ("deu ", centi , " centimetros")
+		
+	}
+}
