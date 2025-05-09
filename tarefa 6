@@ -18,7 +18,7 @@ programa
             
 		escreva ("a area é ", area )
 		escreva ("\n"," o dobro da area é ", area * 2)
-		escreva ("\n"," e o dobro da are em centimetros é", centimetros)
+		escreva ("\n"," e o dobro da area em centimetros é", centimetros * 2)
 
 		
 	}
