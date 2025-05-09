@@ -8,8 +8,8 @@ programa
 		cadeia biscoito = "bis"
 
 		biscoito ="tess"
-		mae ="tess"
-		filha ="anna"
+		mae ="anna"
+		filha ="tess"
 
 	escreva (mae,"\n" )
 	escreva  ( filha)
